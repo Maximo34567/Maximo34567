@@ -1,16 +1,25 @@
-## Hello there! 👋
+# Hi there! 👋
 
-<!--
-**Maximo34567/Maximo34567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Mark Angelo Fulledo...
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm currently studying at Camarines Sur Polytechnic Colleges.
+- 👯 I’m looking to collaborating on a Capstone Project.
+- 😄 Pronouns: He.
+
+## Skills
+
+### Front-end Development
+- HTML/CSS
+- JavaScript
+- - UI/UX Design Principles
+
+### Programming Languages
+- Java
+- PHP
+
+## My Social Media
+LinkedIn: [Facebook](https://www.facebook.com/markangelo.fulledo/)
+
+A newbie but willing to expand my horizon on more discussions and collaborations.
