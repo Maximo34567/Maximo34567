@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm Mark Angelo Fulledo...
 - PHP
 
 ## My Social Media
-LinkedIn: [Facebook](https://www.facebook.com/markangelo.fulledo/)
+Facebook: [Facebook](https://www.facebook.com/markangelo.fulledo)
 
 A newbie but willing to expand my horizon on more discussions and collaborations.
